@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  kubernetes-event-exporter:
+  - apiVersion: v2
+    appVersion: v1.1
+    created: "2023-06-29T23:33:56.241461743Z"
+    description: Export Kubernetes events to multiple destinations with routing and
+      filtering
+    digest: 80c28bd5114a4b4a50ce8bcfdbfbaffe6b76573933588d92f15c0a74c9c7abb4
+    home: https://github.com/resmoio/kubernetes-event-exporter
+    name: kubernetes-event-exporter
+    type: application
+    urls:
+    - https://github.com/RedesignScience/kubernetes-event-exporter/releases/download/kubernetes-event-exporter-0.2.1/kubernetes-event-exporter-0.2.1.tgz
+    version: 0.2.1
+generated: "2023-06-29T23:33:56.241474343Z"
